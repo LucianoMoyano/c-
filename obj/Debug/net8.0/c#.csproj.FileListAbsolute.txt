@@ -1,0 +1,14 @@
+/home/luciano.moyano/Escritorio/c#/bin/Debug/net8.0/c#
+/home/luciano.moyano/Escritorio/c#/bin/Debug/net8.0/c#.deps.json
+/home/luciano.moyano/Escritorio/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/home/luciano.moyano/Escritorio/c#/bin/Debug/net8.0/c#.dll
+/home/luciano.moyano/Escritorio/c#/bin/Debug/net8.0/c#.pdb
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.dll
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/refint/c#.dll
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.pdb
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/home/luciano.moyano/Escritorio/c#/obj/Debug/net8.0/ref/c#.dll
